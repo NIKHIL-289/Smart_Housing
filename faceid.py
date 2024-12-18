@@ -25,7 +25,7 @@ import numpy as np
 from pushbullet import Pushbullet
 
 # Pushbullet API key
-API_KEY = "o.nFKqS2ii4UDgPi9NvEBkHFd1tQDCdgeA"
+API_KEY = "XYZ"
 bullet_text = "You may Enter"
 bullet_text1 = "Intruder Detected"
 pb = Pushbullet(API_KEY)
