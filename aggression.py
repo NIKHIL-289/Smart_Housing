@@ -13,7 +13,7 @@ from pushbullet import Pushbullet
 import os
 
 # Pushbullet setup
-PUSHBULLET_API_KEY = "o.nFKqS2ii4UDgPi9NvEBkHFd1tQDCdgeA"
+PUSHBULLET_API_KEY = "XYZ"
 pb = Pushbullet(PUSHBULLET_API_KEY)
 
 # Pygame setup for alert sound
