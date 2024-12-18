@@ -4,7 +4,7 @@ from pushbullet import Pushbullet
 import time
 
 # Pushbullet API key and other required items
-API_KEY = "o.nFKqS2ii4UDgPi9NvEBkHFd1tQDCdgeA"
+API_KEY = "XYZ"
 bullet_text = '‼️INTRUSION DETECTED AT THE BACKDOOR‼️'
 
 # Initialize pygame mixer for alert sound
